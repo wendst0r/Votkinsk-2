@@ -1,18 +1,22 @@
 {
   "stats": {
+    "minecraft:used": {
+      "minecraft:chiseled_stone_bricks": 15
+    },
     "minecraft:custom": {
-      "minecraft:sprint_one_cm": 931,
-      "minecraft:time_since_rest": 16271,
-      "minecraft:walk_one_cm": 1055,
-      "minecraft:total_world_time": 22655,
-      "minecraft:leave_game": 2,
-      "minecraft:fly_one_cm": 1128726,
-      "minecraft:crouch_one_cm": 6,
-      "minecraft:sneak_time": 256,
-      "minecraft:play_time": 19892,
-      "minecraft:deaths": 2,
-      "minecraft:jump": 9,
-      "minecraft:time_since_death": 16236
+      "minecraft:time_since_rest": 119559,
+      "minecraft:walk_one_cm": 17879,
+      "minecraft:leave_game": 3,
+      "minecraft:play_time": 123180,
+      "minecraft:jump": 68,
+      "minecraft:time_since_death": 119524,
+      "minecraft:sprint_one_cm": 7261,
+      "minecraft:total_world_time": 125943,
+      "minecraft:fly_one_cm": 3201890,
+      "minecraft:crouch_one_cm": 155,
+      "minecraft:walk_on_water_one_cm": 935,
+      "minecraft:sneak_time": 3063,
+      "minecraft:deaths": 2
     }
   },
   "DataVersion": 4671

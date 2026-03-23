@@ -1,0 +1,39 @@
+{
+  "stats": {
+    "minecraft:used": {
+      "minecraft:stone": 6,
+      "minecraft:black_concrete": 54,
+      "minecraft:grass_block": 25,
+      "minecraft:red_wool": 91,
+      "minecraft:quartz_pillar": 2,
+      "minecraft:stone_bricks": 11,
+      "minecraft:polished_blackstone": 8,
+      "minecraft:dirt_path": 92,
+      "minecraft:gray_concrete": 28,
+      "minecraft:smooth_stone_slab": 1,
+      "minecraft:polished_granite": 9
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 104976,
+      "minecraft:walk_one_cm": 29270,
+      "minecraft:leave_game": 1,
+      "minecraft:play_time": 104976,
+      "minecraft:jump": 59,
+      "minecraft:time_since_death": 104976,
+      "minecraft:drop": 3,
+      "minecraft:sprint_one_cm": 3531,
+      "minecraft:total_world_time": 105127,
+      "minecraft:fly_one_cm": 2797374,
+      "minecraft:walk_on_water_one_cm": 1412,
+      "minecraft:crouch_one_cm": 2839,
+      "minecraft:sneak_time": 6148
+    },
+    "minecraft:picked_up": {
+      "minecraft:wheat_seeds": 3
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 3
+    }
+  },
+  "DataVersion": 4671
+}
